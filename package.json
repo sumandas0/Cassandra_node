@@ -1,0 +1,29 @@
+{
+  "name": "cassandranode",
+  "version": "1.0.0",
+  "description": "A cassandra library to easily work with Node",
+  "main": "app.ts",
+  "scripts": {
+    "test": "jest",
+    "test:watch":"jest --watch"
+  },
+  "author": "sumanD",
+  "license": "ISC",
+  "dependencies": {
+    "cassandra-driver": "^4.5.2",
+    "lodash": "^4.17.15",
+    "validator": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.2.2",
+    "@types/lodash": "^4.14.150",
+    "@types/node": "^14.0.1",
+    "@types/validator": "^13.0.0",
+    "eslint": "^7.0.0",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.5",
+    "ts-jest": "^25.5.1",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2"
+  }
+}
