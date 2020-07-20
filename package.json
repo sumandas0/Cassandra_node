@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "cassandra-driver": "^4.5.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "validator": "^13.0.0"
   },
   "devDependencies": {
