@@ -10,9 +10,9 @@
   "author": "sumanD",
   "license": "ISC",
   "dependencies": {
-    "cassandra-driver": "^4.5.2",
-    "lodash": "^4.17.15",
-    "validator": "^13.0.0"
+    "cassandra-driver": "^4.7.2",
+    "lodash": "^4.17.21",
+    "validator": "^13.12.0"
   },
   "devDependencies": {
     "@types/jest": "^25.2.2",
